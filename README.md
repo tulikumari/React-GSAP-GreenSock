@@ -7,7 +7,7 @@ This is a example app integrating GSAP with react.
 
 ## Demo
 
-[https://tulikumari.github.io/React-GSAP-GreenSock/] Click here
+[Click here](https://tulikumari.github.io/React-GSAP-GreenSock)
 
 ## Available Scripts
 
