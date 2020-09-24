@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a example app integrating GSAP with react.
 
+## Demo
+
+[https://tulikumari.github.io/React-GSAP-GreenSock/] Click here
+
 ## Available Scripts
 
 In the project directory, you can run:
